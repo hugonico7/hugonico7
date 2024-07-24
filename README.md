@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <h3 align="center">A passionate Cloud Engineer from Spain</h3>
 
-- 🌱 I’m currently learning **Terraform, Kubernetes, Go, AWS SysOps Certificate**
+- 🌱 I’m currently learning **Kubernetes, Go, AWS SysOps Certificate**
 
 - 📫 How to reach me **hugonicolasc7@gmail.com**
 
